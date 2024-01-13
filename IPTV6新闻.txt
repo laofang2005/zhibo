@@ -122,9 +122,6 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 电影频道,#genre#
 贝爷厅科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 贝爷影厅经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
-女神金蓝光刀刀陪看,http://epg.112114.xyz/douyu/747764
-西游由爱故生怨怨恨交缠那又何苦,http://epg.112114.xyz/douyu/9518204
-狄仁杰想听听我的故事吗,http://epg.112114.xyz/douyu/674441
 电影星爷,https://live.metshop.top/huya/11342412
 电影英叔,https://live.metshop.top/huya/11342421
 电影发哥,https://live.metshop.top/huya/11342387
