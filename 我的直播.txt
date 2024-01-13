@@ -986,7 +986,7 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 食叔牛膝盖骨,https://vd2.bdstatic.com/mda-neqaikd1xvvtrc2a/480p/h264/1653464493901543639/mda-neqaikd1xvvtrc2a.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033339-0-0-fccf02e69c19c9227ebee50760846d7e&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3539483479&vid=8419620275932311899&abtest=all
 食叔肥肠鹅,https://vd4.bdstatic.com/mda-nepbnx1gkwwfe6h4/480p/h264/1653380567130163019/mda-nepbnx1gkwwfe6h4.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033379-0-0-2321e8dcc8049dd5833ded28592aa557&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3579472476&vid=5831581271697130378&abtest=all
 食叔馍包羊腿,https://vd2.bdstatic.com/mda-nen8av4mmq6b6jdn/hd/cae_h264/1653291282172118783/mda-nen8av4mmq6b6jdn.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1655033428-0-0-1ae329bc1264912e601d4e999f52cd24&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0028519303&vid=778061406411546269&abtest=all
-#genre# ======,http://14/14.m3u8
+相声小品,#genre#
 策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
 不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
 就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
