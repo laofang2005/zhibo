@@ -204,15 +204,15 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 神乐影院台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 举起手来-惊险抗日,https://lunbo.freetv.top/yy/1382736877
 鹿鼎记金庸经典,https://lunbo.freetv.top/yy/28265277
-狂飙2老默首播,https://lunbo.freetv.top/yy/1354790484
+狂飙老默首播,https://lunbo.freetv.top/yy/1354790484
 绝版电影港片女鬼,https://lunbo.freetv.top/yy/1455988450
 古惑仔,https://lunbo.freetv.top/yy/1458015189
-战狼4吴京老师,https://lunbo.freetv.top/yy/1354784284
+战狼吴京老师,https://lunbo.freetv.top/yy/1354784284
 新三国蓝光版,https://lunbo.freetv.top/yy/1382705738
 豪哥带我们发财,https://lunbo.freetv.top/yy/23402146
 纪晓岚,https://lunbo.freetv.top/yy/1354143978
 天龙八部,https://lunbo.freetv.top/yy/1351814644
-战狼3吴京独播,https://lunbo.freetv.top/yy/37999586
+战狼吴京独播,https://lunbo.freetv.top/yy/37999586
 超喜剧地下交通站男神贾贵,https://lunbo.freetv.top/yy/1353428972
 武林外传,https://lunbo.freetv.top/yy/1355652820
 绝版电影 港片女鬼,https://lunbo.freetv.top/yy/1461579859
@@ -239,11 +239,11 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 经典港片电影,https://lunbo.freetv.top/yy/1382793140
 成龙经典动作,https://lunbo.freetv.top/yy/34460526
 武侠电影,https://lunbo.freetv.top/yy/1451866697
-英叔僵尸 3000部,https://lunbo.freetv.top/yy/1353685311
+英叔僵尸部,https://lunbo.freetv.top/yy/1353685311
 神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-林正英 僵尸 鬼片,https://lunbo.freetv.top/yy/1351505899
+林正英僵尸鬼片,https://lunbo.freetv.top/yy/1351505899
 康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-弹幕天团 下饭神剧,https://lunbo.freetv.top/yy/23512910
+弹幕天团下饭神剧,https://lunbo.freetv.top/yy/23512910
 港片经典电影,https://lunbo.freetv.top/yy/1382633631
 燕双鹰,https://lunbo.freetv.top/yy/1354143942
 斗罗斗破动漫,https://lunbo.freetv.top/yy/1420843376
@@ -259,7 +259,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 赌神片动作片港片,https://lunbo.freetv.top/yy/1355112116
 封神榜,https://lunbo.freetv.top/yy/1353426319
 神探狄仁杰,https://lunbo.freetv.top/yy/1351755386
-皮蛋影视 正在直播,https://lunbo.freetv.top/yy/23055599
+皮蛋影视正在直播,https://lunbo.freetv.top/yy/23055599
 少年歌行,https://lunbo.freetv.top/yy/1354806550
 兔牙妹吖正在直播,https://lunbo.freetv.top/yy/1353782648
 交友林正英女鬼电影,https://lunbo.freetv.top/yy/1453996620
@@ -271,7 +271,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 奇缘39262港台影院,https://lunbo.freetv.top/yy/1354889234
 川军热血赞歌,https://lunbo.freetv.top/yy/1507704566
 经典鬼片3000部,https://lunbo.freetv.top/yy/29460894
-西游记后传 蓝光,https://lunbo.freetv.top/yy/1353392400
+西游记后传蓝光,https://lunbo.freetv.top/yy/1353392400
 狂飙,https://lunbo.freetv.top/yy/1382754187
 倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
 66车讯,https://lunbo.freetv.top/yy/1382571192
@@ -284,7 +284,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 勇敢的心,https://lunbo.freetv.top/yy/1354744544
 经典港片3000部,https://lunbo.freetv.top/yy/1353059120
 神探狄仁杰2,https://lunbo.freetv.top/yy/1382828767
-情满四合院-高分电视剧,https://lunbo.freetv.top/yy/1382735541
+情满四合院高分电视剧,https://lunbo.freetv.top/yy/1382735541
 泡芙陪你看电影,https://lunbo.freetv.top/yy/24407222
 大话西游至尊宝,https://lunbo.freetv.top/yy/1382851590
 少年包青天第三部,https://lunbo.freetv.top/yy/1382736814
@@ -313,7 +313,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 盗暮笔记24h,https://lunbo.freetv.top/yy/1382702247
 情满四合院,https://lunbo.freetv.top/yy/1382736888
 经典鬼片,https://lunbo.freetv.top/yy/1508828185
-超级吓人鬼片 恐怖片,https://lunbo.freetv.top/yy/1355641195
+超级吓人鬼片恐怖片,https://lunbo.freetv.top/yy/1355641195
 狂飙,https://lunbo.freetv.top/yy/1382690078
 星爷经典百看不厌,https://lunbo.freetv.top/yy/1382736808
 二龙湖浩哥经典搞笑,https://lunbo.freetv.top/yy/28205255
@@ -371,21 +371,18 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 24小时陪你看,https://lunbo.freetv.top/yy/1331686180
 新水浒传,https://lunbo.freetv.top/yy/1353215589
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
-鬼片 恐怖片,https://lunbo.freetv.top/yy/1455891197
+鬼片恐怖片,https://lunbo.freetv.top/yy/1455891197
 经典动漫,https://lunbo.freetv.top/yy/22777075
 送欢乐,https://lunbo.freetv.top/yy/34093016
 小慧惊悚片24H陪你看,https://lunbo.freetv.top/yy/1454190462
 港剧悬疑破案,https://lunbo.freetv.top/yy/10425097
 鹊刀门,https://lunbo.freetv.top/yy/1355344777
-正阳门下 正在直播,https://lunbo.freetv.top/yy/1453059740
-狂飙,https://lunbo.freetv.top/yy/1355142167
 神探狄仁杰1—5部全集,https://lunbo.freetv.top/yy/1382705592
 盗暮老九门,https://lunbo.freetv.top/yy/1382763739
 彭禺鬼怪奇幻系列电影,https://lunbo.freetv.top/yy/1353200190
 一剑开天门,https://lunbo.freetv.top/yy/34313906
 斗破苍穹斗罗大玄幻修仙剧,https://lunbo.freetv.top/yy/1356051105
 石敢当六耳猕猴,https://lunbo.freetv.top/yy/1394156613
-动漫,https://lunbo.freetv.top/yy/1382788679
 欧美经典惊悚灾难,https://lunbo.freetv.top/yy/1382656234
 经典动漫,https://lunbo.freetv.top/yy/24180320
 动漫,https://lunbo.freetv.top/yy/25055036
@@ -775,7 +772,7 @@ yy小品,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
 yy小品2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642
 yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 经典小品,http://epg.112114.xyz/douyu/9067836
-#genre# ======,http://13/13.m3u8
+爱美食,#genre#
 鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
 地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204769-0-0-307f31c8d52fc424d102f72fc60b80f3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2169229312&vid=11820591972211290892&abtest=all
@@ -1018,7 +1015,6 @@ yy小品3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198
 最佳酒友,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
 整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
 老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
-
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
