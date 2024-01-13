@@ -202,7 +202,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 星爷影院代,http://159.75.85.63:35455/douyu/508118
 萌小鬼片原,http://maomao.kandiantv.cn/douyu1.php?id=3928
 神乐影院台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-举起手来-惊险抗日,https://lunbo.freetv.top/yy/1382736877
+举起手来惊险抗日,https://lunbo.freetv.top/yy/1382736877
 鹿鼎记金庸经典,https://lunbo.freetv.top/yy/28265277
 狂飙老默首播,https://lunbo.freetv.top/yy/1354790484
 绝版电影港片女鬼,https://lunbo.freetv.top/yy/1455988450
@@ -268,13 +268,13 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 燕双鹰,https://lunbo.freetv.top/yy/1352227153
 无敌燕双鹰,https://lunbo.freetv.top/yy/1354825244
 薛元帅传奇,https://lunbo.freetv.top/yy/31313785
-奇缘39262港台影院,https://lunbo.freetv.top/yy/1354889234
+奇缘港台影院,https://lunbo.freetv.top/yy/1354889234
 川军热血赞歌,https://lunbo.freetv.top/yy/1507704566
-经典鬼片3000部,https://lunbo.freetv.top/yy/29460894
+经典鬼片,https://lunbo.freetv.top/yy/29460894
 西游记后传蓝光,https://lunbo.freetv.top/yy/1353392400
 狂飙,https://lunbo.freetv.top/yy/1382754187
 倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
-66车讯,https://lunbo.freetv.top/yy/1382571192
+车讯,https://lunbo.freetv.top/yy/1382571192
 狂飙,https://lunbo.freetv.top/yy/1382764587
 速度与激情全集,https://lunbo.freetv.top/yy/1382749892
 欢乐集结号-每天笑不停,https://lunbo.freetv.top/yy/1382741642
