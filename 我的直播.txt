@@ -119,7 +119,6 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-
 电影频道,#genre#
 贝爷厅科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 贝爷影厅经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
@@ -496,7 +495,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 斗鱼电影18,http://epg.112114.xyz/douyu/7314294
 斗鱼电影19,http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,http://epg.112114.xyz/douyu/323876
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
+斗鱼,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
 斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
