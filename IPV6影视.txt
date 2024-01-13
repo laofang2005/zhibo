@@ -14,7 +14,6 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 院线影视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
 江苏移动4K影视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -63,7 +62,7 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 【经典动漫】9455567,http://epg.112114.xyz/douyu/9455567
 鲁过一世的直播间,http://epg.112114.xyz/douyu/9716515
 星海璃幻V的直播间,http://epg.112114.xyz/douyu/9567313
-铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
+铁头与橘子,http://epg.112114.xyz/douyu/9450942
 笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
 【神剧】经典神剧,http://epg.112114.xyz/douyu/3700024
 【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
