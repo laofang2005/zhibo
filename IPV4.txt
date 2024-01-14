@@ -17,6 +17,7 @@ CCTV-14,http://www.biaozhun114.com/dl/dl666/gsyd.php?6166
 CCTV-15,http://www.biaozhun114.com/dl/dl666/gsyd.php?6616
 CCTV-16,http://www.biaozhun114.com/dl/dl666/gsyd.php?6413
 CCTV-17,http://www.biaozhun114.com/dl/dl666/gsyd.php?6407
+卫视频道,#genre#
 凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
@@ -61,7 +62,7 @@ CCTV-17,http://www.biaozhun114.com/dl/dl666/gsyd.php?6407
 上海都市,http://www.biaozhun114.com/dl/dl666/gsyd.php?5673
 上海外语,http://www.biaozhun114.com/dl/dl666/gsyd.php?6201
 欢笑剧场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6203
-第一财*,http://www.biaozhun114.com/dl/dl666/gsyd.php?6172
+第一财经,http://www.biaozhun114.com/dl/dl666/gsyd.php?6172
 都市剧场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6176
 生活时尚,http://www.biaozhun114.com/dl/dl666/gsyd.php?6358
 纪实人文,http://www.biaozhun114.com/dl/dl666/gsyd.php?6174
@@ -69,7 +70,7 @@ CCTV-17,http://www.biaozhun114.com/dl/dl666/gsyd.php?6407
 游戏风云,http://www.biaozhun114.com/dl/dl666/gsyd.php?6187
 哈哈炫动,http://www.biaozhun114.com/dl/dl666/gsyd.php?6618
 动漫秀场,http://www.biaozhun114.com/dl/dl666/gsyd.php?6197
-东方财*,http://www.biaozhun114.com/dl/dl666/gsyd.php?6602
+东方财经,http://www.biaozhun114.com/dl/dl666/gsyd.php?6602
 甘肃都市,http://www.biaozhun114.com/dl/dl666/gsyd.php?6248
 甘肃经济,http://www.biaozhun114.com/dl/dl666/gsyd.php?6252
 甘肃文化影视,http://www.biaozhun114.com/dl/dl666/gsyd.php?6287
@@ -272,8 +273,8 @@ CCTV17HD,http://www.furymax.top:85/rtp/239.69.1.152:10548
 安徽卫视HD,http://www.furymax.top:85/rtp/239.69.1.70:10060
 东南卫视HD,http://www.furymax.top:85/rtp/239.69.1.108:10286
 江西卫视HD,http://www.furymax.top:85/rtp/239.69.1.126:10394
-东方卫视FHD,http://www.furymax.top:85/rtp/239.69.1.173:10674
-江苏卫视FHD,http://www.furymax.top:85/rtp/239.69.1.174:10680
+东方卫视HD,http://www.furymax.top:85/rtp/239.69.1.173:10674
+江苏卫视HD,http://www.furymax.top:85/rtp/239.69.1.174:10680
 重庆卫视HD,http://www.furymax.top:85/rtp/239.69.1.149:10530
 贵州卫视HD,http://www.furymax.top:85/rtp/239.69.1.150:10536
 河南卫视HD,http://www.furymax.top:85/rtp/239.69.1.168:10644
@@ -500,7 +501,7 @@ CCTV14,http://219.144.185.82:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=0&
 CHC动作电影,http://113.65.248.146:808/hls/98/index.m3u8
 CHC家庭影院,http://113.65.248.146:808/hls/99/index.m3u8
 CHC高清电影,http://113.65.248.146:808/hls/100/index.m3u8
-央视4.1,#genre#
+央视4,#genre#
 CCTV1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
