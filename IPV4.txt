@@ -101,13 +101,13 @@ TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 CGTN新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 电影频道,#genre#
-神剧经典神剧,http://epg.112114.xyz/douyu/3700024
+经典神剧,http://epg.112114.xyz/douyu/3700024
 贝爷厅科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
-贝爷影厅经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
-女神金极致蓝光刀刀陪看,http://epg.112114.xyz/douyu/747764
+贝爷影厅经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
+女神金极致蓝光,http://epg.112114.xyz/douyu/747764
 狄仁杰想听听我的故事吗,http://epg.112114.xyz/douyu/674441
 牛叔带你看完大片,http://epg.112114.xyz/douyu/2758565
-科幻精彩科幻影视解说连连看,http://epg.112114.xyz/douyu/3508304
+科幻影视解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 电影星爷,https://live.metshop.top/huya/11342412
 电影英叔,https://live.metshop.top/huya/11342421
@@ -236,7 +236,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 贝爷影厅原,http://maomao.kandiantv.cn/douyu1.php?id=252802
 译制国语原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 绍兴影院另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-央视2,#genre#
+央视频道,#genre#
 CCTV1,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?k=d4f540521dbf02a7d7bab73f2f5b121e&t=1706162416 
 CCTV2,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?k=20c111f02cc0e9c71eb6b6be7f48e9a3&t=1706162416
 CCTV3,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?k=349410c2bea4d6d2341a9314861ef3d7&t=1706164663 
