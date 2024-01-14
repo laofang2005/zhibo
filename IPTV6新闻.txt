@@ -409,9 +409,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 洪金宝福星系列,https://lunbo.freetv.top/yy/1354924839
 神探狄仁杰2,https://lunbo.freetv.top/yy/1382851146
 斗鱼电影,#genre#
-斗鱼小品,http://epg.112114.xyz/douyu/3980787
-斗鱼直播,http://epg.112114.xyz/douyu/11915926
-斗鱼电影1,http://epg.112114.xyz/douyu/2935323
+斗鱼电影,http://epg.112114.xyz/douyu/2935323
 斗鱼电影1,http://epg.112114.xyz/douyu/3485629
 斗鱼电影2,http://epg.112114.xyz/douyu/7459925
 斗鱼电影3,http://epg.112114.xyz/douyu/431460
