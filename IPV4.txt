@@ -210,11 +210,11 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 冰冰经典原,http://maomao.kandiantv.cn/douyu1.php?id=74374
 星爷影院代,http://159.75.85.63:35455/douyu/508118
 萌小鬼片原,http://maomao.kandiantv.cn/douyu1.php?id=3928
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影院1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 神乐影院原,http://maomao.kandiantv.cn/douyu1.php?id=122402
 可乐影院原,http://maomao.kandiantv.cn/douyu1.php?id=20415
-小宇60帧原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+小宇帧原,http://maomao.kandiantv.cn/douyu1.php?id=323876
 恐怖惊悚原,http://maomao.kandiantv.cn/douyu1.php?id=96577
 電影劇場原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
 國語電影原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
@@ -224,7 +224,7 @@ CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 霍格沃茨原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 鱼宝恐怖原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
 鬼片恐怖原,http://maomao.kandiantv.cn/douyu1.php?id=2935323
-小U鬼片原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+小鬼片原,http://maomao.kandiantv.cn/douyu1.php?id=96577
 菜园惊险原,http://maomao.kandiantv.cn/douyu1.php?id=1735337
 吃奶滴虫原,http://maomao.kandiantv.cn/douyu1.php?id=263824
 变种人片原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
