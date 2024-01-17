@@ -2101,7 +2101,7 @@ TraceSportsStars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?check
 金鹰卡通,http://ys.rgood.xyz:8899/udp/239.77.0.164:5146
 黑猫动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+
 🌈综合频道,#genre#
 榜上榜,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000412/index.m3u8?IAS
 榜上榜,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000412/index.m3u8?IAS
@@ -2193,7 +2193,7 @@ TraceSportsStars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?check
 早期教育,http://ys.rgood.xyz:8899/udp/239.77.0.180:5146
 棋牌,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226957/index.m3u8
 CitY都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+
 🔥NewTV频道,#genre#
 NewTV黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 NewTV黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
@@ -2245,7 +2245,7 @@ NewTV超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLT
 NewTV超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+
 🔥iHOT频道,#genre#
 iHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 iHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
@@ -2286,7 +2286,7 @@ iHOT爱幼教,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 iHOT爱幼教,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
 iHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 iHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+
 🔥SITV频道,#genre#
 SITV游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 SITV法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
@@ -2334,7 +2334,7 @@ SITV都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 欢笑剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+
 🔥咪咕直播,#genre#
 咪咕直播4K-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
@@ -2381,7 +2381,6 @@ SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/500000000700
 咪咕直播-54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播-55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
 
 东北❤️黑龙江,#genre#
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230622/1.m3u8
@@ -4985,6 +4984,17 @@ W雙姦姊妹,https://vip2.slbfsl.com/20230323/3NvBd8hx/index.m3u8
 敏感に感じる体の美人妻がひくひくと痙攣する姿をお楽しみください。,https://vip2.slbfsl.com/20230421/cs2CCEQN/index.m3u8
 
 欧美,#genre#
+松视欧美版1,http://live.redtraffic.xyz:80/interracial.m3u8 
+松视欧美版2,http://live.redtraffic.xyz:80/bigtits.m3u8 
+松视欧美版3,http://live.redtraffic.xyz:80/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8 
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8 
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8 
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8 
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8 
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8 
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8 
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
 Live Cams,http://live.adultiptv.net/livecams.m3u8
 MILF,http://live.adultiptv.net/milf.m3u8
 Big Dick,http://live.adultiptv.net/bigdick.m3u8
@@ -5010,17 +5020,6 @@ Brunette,http://live.adultiptv.net/brunette.m3u8
 Blonde,http://live.adultiptv.net/blonde.m3u8
 Gay,http://live.adultiptv.net/gay.m3u8
 Asian,http://live.adultiptv.net/asian.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8 
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8 
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8 
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8 
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8 
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8 
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8 
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8 
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8 
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
 成人视频高中生上門援交/TZ-083,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
 萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
 成人视频街頭搭訕女大學生拍攝AV/TZ-001,https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
