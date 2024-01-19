@@ -82,6 +82,8 @@ CCTV17,http://jscbn.ws-cdn.gitv.tv/gitv_escape/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8?k=
 咪咕综合体育,http://www.biaozhun114.com/dl/dl666/gsyd.php?6504
 咪咕精彩足球,http://www.biaozhun114.com/dl/dl666/gsyd.php?6506
 咪咕精彩足球,http://www.biaozhun114.com/dl/dl666/gsyd.php?6508
+
+国际频道,#genre#
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNN新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
